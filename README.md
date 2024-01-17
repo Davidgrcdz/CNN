@@ -25,4 +25,4 @@ Para facilitar la comprensión, se proporciona una función (`visualize_predicti
 ### Autores
 
 - Gabriel Bernal Pinto
-- David García Día
+- David García Díaz
